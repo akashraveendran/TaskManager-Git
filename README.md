@@ -8,4 +8,4 @@ npm run dev for running on nodemon
 
 if nodemon is not installed install it as a dev dependancy(or globally for future uses in your machine).
 
-Live @ (here)[https://task-manager2-rdhq.onrender.com]
+Live @ [here](https://task-manager2-rdhq.onrender.com)
